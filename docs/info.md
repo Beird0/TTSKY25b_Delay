@@ -1,4 +1,4 @@
-ies<!---
+<!---
 
 This file is used to generate your project datasheet. Please fill in the information below and delete any unused
 sections.
@@ -13,8 +13,9 @@ J K Flip-Flop
 
 ## How to test
 
-The flip-flop's clock is not the syatem clock.
+The flip-flop's clock is IN1,
+J and K are IN0 and IN2, respectfully.
 
 ## External hardware
 
-Normal flip-flop behavior may be obderved.
+Outputs are OUT0 and OUT1

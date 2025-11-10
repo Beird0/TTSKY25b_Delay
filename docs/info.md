@@ -11,6 +11,8 @@ You can also include images in this folder and reference them in the markdown. E
 
 J K Flip-Flop
 
+![JK flip-flop logic](jk_flip_flop_logic.png)
+
 ## How to test
 
 The flip-flop's clock is IN1,

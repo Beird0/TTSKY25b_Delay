@@ -13,7 +13,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How to test
 
-Look for a change in the outputs on the rising edge of clock.
+Look for a change in the outputs on the rising edge of CLK.
 
 ## External hardware
 

@@ -9,26 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-J K Flip-Flop
-
 ![JK flip-flop logic](jk_flip_flop_logic.png)
 
 ## How to test
 
-The flip-flop's clock is IN1,
-J and K are IN0 and IN2, respectfully.
+Look for a change in the outputs on the rising edge of clock.
 
 ## External hardware
 
-Outputs are OUT0 and OUT1
-
-## Pinout
-
-| Pin  | Description                             |
-| ---- | --------------------------------------- |
-| IN0  | J input                                 |
-| IN1  | Clock input (rising edge)               |
-| IN2  | K input                                 |
-| ---- | --------------------------------------- |
-| OUT0 | Q output                                |
-| OUT1 | \Q Inverted output (complement of Q)    |
+None required.

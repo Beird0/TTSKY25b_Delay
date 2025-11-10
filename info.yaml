@@ -17,8 +17,8 @@ project:
 pinout:
   # Inputs
   ui[0]: "J"
-  ui[1]: "Clock"
-  ui[2]: "K"
+  ui[1]: "K"
+  ui[2]: "Clock"
   ui[3]: ""
   ui[4]: ""
   ui[5]: ""
